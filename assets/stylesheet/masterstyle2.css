@@ -1,0 +1,330 @@
+.lgx-logo img{
+    width: 80px;
+}
+
+.lgx-banner {
+    background: url('/assets/img/home-background.png') top center no-repeat;
+    background-position:right top;
+}
+
+.lgx-banner.lgx-insider{
+    background-position: right!important;
+}
+
+.lgx-banner-info .title {
+    font-size: 7rem;
+    line-height: 10rem;
+}
+
+.lgx-banner-info .subtitle {
+    margin-top: 25px;
+}
+
+.lgx-header-white{
+    background: #fff!important;
+}
+
+.lgx-banner .lgx-inner {
+    min-height: 100vh;
+    padding: 10rem 0;
+    background: url('/assets/img/home-bg-focus.png');
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: contain;
+}
+
+.lgx-banner-info .title span b:nth-child(4) {
+    color: #8dc63f;
+}
+
+.mt-0{
+    margin-top: 0;
+}
+.mb-10{
+    margin-bottom: 10px;
+}
+.mb-15{
+    margin-bottom: 15px;
+}
+.mb-30{
+    margin-bottom: 30px;
+}
+.mr-15{
+    margin-right: 15px;
+}
+
+.padd-30{
+    padding: 30px;
+}
+.lgx-page-inner {
+    padding: 6rem 0 5rem;
+}
+
+.lgx-header .menu-onscroll{
+    background: #fff!important;
+}
+.lgx-header .menu-onscroll .lgx-navbar .lgx-nav li a {
+    color: #000!important;
+}
+
+.lgx-header .lgx-navbar .lgx-nav .dropdown-menu li a{
+    color: #fff!important;
+}
+
+
+
+.lgx-header .lgx-navbar {
+    background: #ffffff!important;
+}
+
+.sp5.sponsors-area .single {
+    width: 18%;
+}
+
+.lgx-modal .modal-dialog .modal-content .modal-header {
+    color: #fff;
+}
+.lgx-modal .modal-dialog .modal-content .modal-body,
+.lgx-modal .modal-dialog .modal-content .modal-body * {
+    color: #fff;
+}
+
+/* lgx-gusets css */
+#lgx-gusets{}
+#lgx-gusets .ceremony_title{
+    font-size: 2.6rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    margin-bottom: 1em;
+}
+.lgx-panel .lgx-single-schedule .schedule-info {
+    padding: 2.6rem 1rem;
+    padding-bottom: 0;
+}
+/* seminar */
+.panel-group .panel a:focus, a:hover, a.active {
+    color: #000!important;
+}
+.panel-group .panel {
+    position: relative;
+    background: #fff!important;
+    padding-bottom: 20px;
+}
+.seminarPanel .panel-default>.panel-heading+.panel-collapse>.panel-body {
+    padding-right: 4rem;
+}
+.seminarPanel .lgx-panel > .panel-body {
+    padding-top: 15px;
+}
+.seminarPanel .panel-heading{
+
+}
+.seminarPanel .lgx-panel .lgx-single-schedule {
+    padding-bottom: 0;
+}
+
+.seminarPanel {
+    color: #000;
+}
+.seminarPanel .lgx-btn{
+    border-radius: 5px;
+    padding: 5px 15px;
+}
+.seminarPanel .lgx-btn:hover{
+    color: #fff!important;
+}
+.seminarPanel .lgx-btn.lgx-btn-red {
+    position: absolute;
+    bottom: 45px;
+    right: 35px;
+    border-radius: 5px;
+    padding: 5px 15px;
+}
+.seminarPanel .panel-heading{
+    padding-bottom: 0!important;
+}
+
+.seminarPanel hr {
+    margin: 10px 0!important;
+}
+.seminarPanel ol, ul {
+    padding: 0 0 0 17px;
+}
+.view_more {
+    display: none;
+}
+a.collapsed .view_more {
+    display: block;
+}
+.collapsed .view_less {
+    display: none;
+}
+
+/* Speakers css */
+.lgx-speakers2 {
+    background: url('/assets/img/seminar-bg.jpg') bottom left no-repeat fixed;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+/* Speakers css */
+.lgx-milestone-about {
+    background: url('/assets/img/seminar-bg.jpg') bottom left no-repeat fixed;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+
+/* lgx-travelinfo-content */
+.lgx-travelinfo-content{}
+
+.lgx-travelinfo-content .lgx-travelinfo-single{}
+.lgx-travelinfo-content .lgx-travelinfo-single img{
+    width: 80px;
+}
+
+/* Counter */
+.lgx-milestone .lgx-counter-area .counter-text .lgx-counter-new {
+    font-family: 'Oswald', sans-serif;
+    display: block;
+    font-size: 68px;
+    font-size: 6.8rem;
+    font-weight: 900;
+    margin-bottom: 1rem;
+    color: #fff;
+}
+
+.lgx-sponsors{
+    background-image: none;
+}
+.lgx-inner-countdown .countdown-right {
+    margin-top: 11rem;
+}
+/* lgx-travelinfo css */
+
+
+#lgx-sponsors{
+    background: #fff;
+}
+#lgx-supported-by {
+    background: #fff;
+}
+
+.modal-content{
+    border-radius:0;
+}
+.modal-header .close {
+    margin-top: 0;
+    background: rgba(255, 255, 255, 0);
+    font-size: 60px;
+    box-shadow: none;
+    line-height: inherit;
+    opacity: 1;
+    position: absolute;
+    right: 20px;
+    top: 0;
+    height: 30px;
+}
+.modal-content button:after{
+    position: relative;
+}
+
+.lgx-milestone-about .lgx-inner {
+    background: rgba(23, 16, 95, 0.9);
+    padding: 12rem 0;
+}
+
+
+/* seminar_registration css */
+#seminar_registration .modal-header{
+    padding: 10px;
+}
+#seminar_registration button.close{
+    color:#fff!important;
+}
+/* Footer css */
+.lgx-footer-area .logo img{
+    width: 70%;
+}
+.lgx-footer .lgx-inner-footer {
+    background: rgba(244, 243, 255, 0.95);
+}
+.lgx-footer {
+    color: #000;
+    background-image:none;
+}
+.lgx-footer-single{
+    color: #000;
+}
+.lgx-footer-single .footer-title{
+    color: #000;
+}
+.lgx-footer-bottom{
+    background: #2f3f95;
+    padding: 2em 0;
+}
+.lgx-footer-single .map-link{
+    color: #efa506;
+}
+
+
+/* Media query css */
+@media (max-width: 767px){
+    .lgx-banner {
+        background-position: top;
+        background-size: cover;
+    }
+    .lgx-banner .lgx-inner {
+        background-position: top left;
+    }
+    .lgx-header .lgx-navbar .lgx-nav .dropdown-menu li a{
+        color: #000!important;
+    }
+    .lgx-logo img {
+        padding: 10px;
+    }
+    .lgx-inner-countdown .countdown-right {
+        margin-top: auto;
+    }
+    .sp5.sponsors-area .single {
+        width: 48%;
+    }
+
+    .lgx-header .lgx-navbar .lgx-nav li a, .lgx-header .lgx-nav-right .lgx-search {
+        color: #000;
+    }
+    .navbar-default .navbar-toggle {
+        border-color: transparent;
+        margin-top: 25px;
+    }
+
+    .m-lgx-registration{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -40%);
+    }
+    .navbar-header{
+        position: relative;
+    }
+    #lgx-schedule .nav-pills>li {
+        float: left!important;
+    }
+    .lgx-panel  .panel-body {
+        padding: 0 0 2rem 3rem;
+        margin-left: auto!important;
+        display: block;
+    }
+    .seminarPanel .lgx-btn.lgx-btn-red {
+        bottom: 42px;
+    }
+    .panel-group .panel {
+        padding-bottom: 20px;
+    }
+    .seminarPanel .panel-default>.panel-heading+.panel-collapse>.panel-body {
+        padding-right: 3rem;
+        font-size: 16px;
+    }
+}
